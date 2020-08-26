@@ -5,14 +5,16 @@ git init
 git config -l
 ### Editar configuraciones locales
 git config -e
-#### Definir nombre de usuario en git globalmente
+### Definir nombre de usuario en git globalmente
 git config --global user.name "nombreDelUsuario"
-#### Definir email de usuario en git globalmente
+### Definir email de usuario en git globalmente
 git config --global user.email "emailDelUsuario"
-#### Listar configuraciones globales
+### Listar configuraciones globales
 git config --global -l
-#### Editar configuraciones globales
+### Editar configuraciones globales
 git config --global -e
+### Ver estado
+git status -sb
 ### Ver ramas
 git branch
 ### Crear rama
