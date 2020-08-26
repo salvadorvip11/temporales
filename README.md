@@ -1,8 +1,10 @@
 # Curso Git GitHub
 ### Iniciar repositorio
 git init
-### Configuraciones globales
-git config --global
+### Listar configuraciones locales
+git config -l
+### Editar configuraciones locales
+git config -e
 #### Definir nombre de usuario en git globalmente
 git config --global user.name "nombreDelUsuario"
 #### Definir email de usuario en git globalmente
