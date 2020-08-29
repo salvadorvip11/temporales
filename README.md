@@ -1,4 +1,5 @@
 # Curso Git & GitHub
+[![Curso en YouTube](https://cdn.icon-icons.com/icons2/1488/PNG/128/5295-youtube-i_102568.png "Curso en YouTube")](https://www.youtube.com/watch?v=u49BtIIdLv4&list=PLVPhgrU5vr6MPLPmORSxD76E8yG33YY-C "Curso en YouTube")
 ## Comandos
 ### Iniciar repositorio
 	git init
