@@ -1,4 +1,5 @@
-# Curso Git GitHub
+# Curso Git & GitHub
+## Comandos
 ### Iniciar repositorio
 git init
 ### Listar configuraciones locales
@@ -21,3 +22,6 @@ git branch
 git brach nombreDeLaRama
 ### Cambiar de rama
 git checkout nombreDeLaRama
+## Comandos (malas practicas)
+### Trae los cambios de un commit espeficico de otra rama
+git cherry-pick hashDeLaRama
