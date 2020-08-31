@@ -26,4 +26,5 @@
 ## Comandos (malas practicas)
 ### Trae los cambios de un commit espeficico de otra rama
 	git cherry-pick hashDeLaRama
-  
+### Otro aporte
+	git checkout .
